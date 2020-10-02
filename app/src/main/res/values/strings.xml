@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="tituloPantalla1">Agregar Contacto</string>
+    <string name="inNombre">Nombre</string>
+    <string name="inFechaNacimiento">Fecha de nacimiento</string>
+    <string name="inTelefono">Teléfono</string>
+    <string name="inEmail">Email</string>
+    <string name="inDescripcion">Descripción Contacto</string>
+    <string name="dias">dd</string>
+    <string name="meses">mm</string>
+    <string name="anos">yyyy</string>
+    <string name="btn1">Siguiente</string>
+    <string name="tituloPantalla2">Ingresar Contacto</string>
+    <string name="btn2">Editar Contacto</string>
+
+</resources>
